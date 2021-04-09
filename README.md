@@ -1,1 +1,1 @@
-# UOC_Tipolog-a_de_datos
+# UOC_Tipologia_de_datos
